@@ -1,0 +1,4 @@
+#Thu Dec 21 16:55:16 EST 2017
+base.0=/Users/alex/Desktop/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
